@@ -4,7 +4,7 @@ $EXT_CONF['convert_image'] = array(
 	'description' => 'Converts image files into pdf using fpdf. This extension adds conversion services from image/png and image/jpg to application/pdf.',
 	'disable' => false,
 	'version' => '1.0.0',
-	'releasedate' => '2024-01-01',
+	'releasedate' => '2025-01-22',
 	'author' => array('name'=>'Uwe Steinmann', 'email'=>'uwe@steinmann.cx', 'company'=>'MMK GmbH'),
 	'config' => array(
 		'papersize' => array(
