@@ -16,7 +16,7 @@ $EXT_CONF['convert_image'] = array(
 		),
 	),
 	'constraints' => array(
-		'depends' => array('php' => '5.6.40-', 'seeddms' => ['5.1.24-5.1.99', '6.0.17-6.0.99']),
+		'depends' => array('php' => '5.6.40-', 'seeddms' => ['5.1.24-5.1.99', '6.0.17-6.0.99', '6.1.0-']),
 	),
 	'icon' => 'icon.svg',
 	'changelog' => 'changelog.md',
